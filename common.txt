@@ -1,0 +1,56 @@
+
+
+수집  -  탐색  - 전처리 & 정제  - 모델링 & 학습  -  평가  -  적용
+
+
+Natural Language Processing을 위한 python library
+
+수집
+- requests
+- beautifulsoup
+- selenium
+
+탐색(EDA)
+- numpy
+- pandas
+- matplotlib
+
+NLP 전처리
+- nltk
+- konlpy
+
+모델링 & 학습
+- tensorflow
+
+
+ananconda 명령
+
+- package 목록 : conda list
+- package 업데이트 : conda update -n base conda
+                    conda upgrade --all
+- package 설치 : conda install <package이름>
+- package 검색 : conda search <package이름>
+- 가상 환경 생성 : conda create --name <가상환경이름> anaconda
+- 가상 환경 활성화 : conda activate <가상환경이름>
+- 가상 환경 비활성화 : conda deactivate
+- 가상 환경 목록 확인 : conda info --envs
+
+OpenJDK 설치
+
+$sudo apt-get install openjdk-8-jdk
+
+
+OpenJDK 설치 확인
+
+$javac -version
+
+$java -version
+
+
+
+
+
+
+
+
+
