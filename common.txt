@@ -46,11 +46,34 @@ $javac -version
 
 $java -version
 
-
-
-
-
-
-
-
-
+NLP 개발 환경 설정
+1. anaconda 설치
+2. anaconda update & upgrade
+   - conda update -n base conda
+   - conda upgrade --all
+3. 작업 디렉터리 생성 후 이동
+   - mkdir Workspace
+   - cd Workspace
+4. 가상 환경 생성
+   - conda create --name nlp anaconda
+5. 생성한 가상 환경 활성화
+   - conda activate nlp
+6. selenium package 설치
+   - conda install selenium
+7. Tensorflow 설치
+   - conda install tensorflow
+8. NLTK package 설치
+   - conda install nltk
+   - ipython 또는 jupyter notebook 실행 후
+     import nltk
+     nltk.download() # corpus download
+9. Konlpy 설치
+   - Windows 사용시 Jpype를 설치
+     Jype 설치 - 현재 사용중인 Windows 32/64 bit 및 python 버전에 맞는 파일 설치
+     https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
+     download후 다음 명령으로 설치
+   - pip install JPype1-0.7.1-cp37-cp37m-win_amd64.whl -> Windos 64bit/ python 3.7버전사용시
+   
+   - pip install konlpy
+10. Pandas Profiling 설치
+   - conda install pandas-profiling
