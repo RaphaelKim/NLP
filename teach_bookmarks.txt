@@ -1,0 +1,41 @@
+1 일차
+https://search.naver.com/search.naver?
+
+https://code.visualstudio.com/
+
+https://sites.google.com/a/chromium.org/chromedriver/downloads
+
+
+2일차
+
+https://pandas-profiling.github.io/pandas-profiling/docs/
+
+https://www.kaggle.com/uciml/sms-spam-collection-dataset
+
+http://www.nltk.org/
+
+https://konlpy.org/ko/latest/
+
+Windows konlpy 설치에러시 JPype 설치 - 현재 사용중인 Windows 32/64 bit 및 python 버전에 맞는 파일 설치
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
+download후 다음 명령으로 설치
+pip install JPype1-0.7.1-cp37-cp37m-win_amd64.whl -> Windos 64bit/ python 3.7버전사용시
+
+https://github.com/likejazz/korean-sentence-splitter
+
+포터 Algorithm
+https://tartarus.org/martin/PorterStemmer/index.html
+
+
+한글 불용어 리스트
+https://www.ranks.nl/stopwords/korean
+
+https://bab2min.tistory.com/544
+
+
+
+
+
+
+
+
