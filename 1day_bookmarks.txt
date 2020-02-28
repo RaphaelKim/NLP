@@ -16,6 +16,11 @@ http://www.nltk.org/
 
 https://konlpy.org/ko/latest/
 
+Windows konlpy 설치에러시 JPype 설치 - 현재 사용중인 Windows 32/64 bit 및 python 버전에 맞는 파일 설치
+https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
+download후 다음 명령으로 설치
+pip install JPype1-0.7.1-cp37-cp37m-win_amd64.whl -> Windos 64bit/ python 3.7버전사용시
+
 https://github.com/likejazz/korean-sentence-splitter
 
 포터 Algorithm
