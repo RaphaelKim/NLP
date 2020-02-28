@@ -35,12 +35,12 @@ ananconda 명령
 - 가상 환경 비활성화 : conda deactivate
 - 가상 환경 목록 확인 : conda info --envs
 
-OpenJDK 설치
+Ubuntu Linux OpenJDK 설치
 
 $sudo apt-get install openjdk-8-jdk
 
 
-OpenJDK 설치 확인
+Ubuntu Linux OpenJDK 설치 확인
 
 $javac -version
 
