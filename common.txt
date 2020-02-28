@@ -46,7 +46,7 @@ $javac -version
 
 $java -version
 
-NLP 개발 환경 설정
+NLP 개발 환경 구성
 1. anaconda 설치
 2. anaconda update & upgrade
    - conda update -n base conda
