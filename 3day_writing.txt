@@ -1,0 +1,14 @@
+1. 불용어 처리
+https://www.ranks.nl/stopwords/korean
+
+2. 불용어 파일명
+stopwords.txt
+
+3. Konlpy Home
+https://konlpy.org/ko/latest/
+
+
+4. 오후 수업 개념
+1. 정수 인코딩( Integer Encoding )
+   - 텍스트를 정수로 변환하는 방법
+   - 텍스트의 빈도수를 확인해서 빈도수에 따른 index 부여
