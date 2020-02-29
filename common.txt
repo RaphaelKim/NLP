@@ -67,7 +67,7 @@ NLP 개발 환경 구성
    - ipython 또는 jupyter notebook 실행 후
      import nltk
      nltk.download() # corpus download
-9. Konlpy 설치
+9. Konlpy 설치( JDK 설치 )
    - Windows 사용시 Jpype를 설치
      Jype 설치 - 현재 사용중인 Windows 32/64 bit 및 python 버전에 맞는 파일 설치
      https://www.lfd.uci.edu/~gohlke/pythonlibs/#jpype
